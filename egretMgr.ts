@@ -1,4 +1,4 @@
-
+//xxxx
 function swap(arr, i, j) {
 	// console.log("			swap--1---=",i  ,j , arr);
 	var tmp = arr[i];
